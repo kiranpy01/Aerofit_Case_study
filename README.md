@@ -5,8 +5,8 @@
 Create comprehensive customer profiles for each AeroFit treadmill product through descriptive analytics. Develop two-way contingency tables and analyze conditional and marginal probabilities to discern customer characteristics, facilitating improved product recommendations and informed business decisions.
 
 ## 📝 Project Report
-- You can access the complete project python file here - [Python](https://github.com/aditya-shinde16/Aerofit_Case_Study/blob/main/Aerofit%20Case%20Study.ipynb)
-- You can access the complete project in pdf format here - [Report](https://aditya-shinde16.github.io/Aerofit_Case_Study/Aerofit_Case_Study.pdf)
+- You can access the complete project python file here - [Python](https://github.com/kiranpy01/Aerofit_Case_study/blob/main/Copy_of_Bussiness_case_Aerofit.ipynb)
+- You can access the complete project in pdf format here - [Report](https://github.com/kiranpy01/Aerofit_Case_study/blob/main/Bussiness_case_Aerofit.ipynb_-_Colaboratory.pdf)
 
 ## 📚 About Data
 The company collected the data on individuals who purchased a treadmill from the AeroFit stores during `three months`.The data is available in a single csv file 
